@@ -1,3 +1,13 @@
+/**
+ * @file Bootloader.c
+ * @author Mark Attia (markjosephattia@gmail.com)
+ * @brief A Simple Bootloader Application Over Uart Using A Designed Software Protocol
+ * @version 0.1
+ * @date 2020-05-25
+ * 
+ * @copyright Copyright (c) 2020
+ * 
+ */
 #include "Std_Types.h"
 #include "Uart.h"
 #include "Fpec.h"
